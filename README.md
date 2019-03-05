@@ -1,6 +1,12 @@
-# etch-a-sketch
+# Etch-a-sketch
 
-Project done as part of The Odin Project, intended to create something with the CSS/html/javascript that I've learnt. 
+Project done as part of The Odin Project curriculum, to create a website which could emulate the product ![Etch-A-Sketch](https://www.youtube.com/watch?v=_vWlzbo78iI), with random colours per pixel, choice of number of square grids, and availability of custom colors.
 
-To-do for future development:
+## Languages
+CSS/HTML/Javascript
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/walnutdust/etch-a-sketch/blob/master/screenshot.png)
+
+## Todo 
 1. Edit for screen-resolution compatibility
