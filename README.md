@@ -1,6 +1,8 @@
 # Etch-a-sketch
 
-https://walnutdust.github.io/etch-a-sketch/
+Garett Tok, 2018
+
+Hosted at: https://walnutdust.github.io/etch-a-sketch/
 
 Project done as part of The Odin Project curriculum, to create a website which could emulate the product ![Etch-A-Sketch](https://www.youtube.com/watch?v=_vWlzbo78iI), with random colours per pixel, choice of number of square grids, and availability of custom colors.
 
