@@ -6,7 +6,7 @@ Project done as part of The Odin Project curriculum, to create a website which c
 CSS/HTML/Javascript
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/walnutdust/etch-a-sketch/blob/master/screenshot.png)
+![Screenshot](https://github.com/walnutdust/etch-a-sketch/blob/master/screenshot.png)
 
 ## Todo 
 1. Edit for screen-resolution compatibility
